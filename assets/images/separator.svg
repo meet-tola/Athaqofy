@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.903169in" height="0.114913in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 139.22 17.71"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:white;stroke-width:1.09;stroke-miterlimit:2.61313}
+    .str4 {stroke:white;stroke-width:1.09;stroke-miterlimit:2.61313}
+    .str2 {stroke:white;stroke-width:1.09;stroke-miterlimit:2.61313}
+    .str1 {stroke:white;stroke-width:1.09;stroke-miterlimit:2.61313}
+    .str0 {stroke:white;stroke-width:1.09;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1584817256384">
+   <g>
+    <polygon class="fil0 str0" points="43.45,8.94 50.31,15.8 57.17,8.94 50.31,2.08 "/>
+   </g>
+   <g>
+    <polygon class="fil0 str1" points="82.13,8.91 88.99,15.77 95.85,8.91 88.99,2.05 "/>
+   </g>
+   <g>
+    <polygon class="fil0 str2" points="69.75,17.06 57.19,8.93 69.75,0.65 82.17,8.93 "/>
+   </g>
+   <g>
+    <line class="fil0 str2" x1="4.97" y1="8.93" x2="43.5" y2= "8.93" />
+   </g>
+   <g>
+    <path class="fil1 str3" d="M7.68 8.93c0,-1.97 -1.6,-3.57 -3.57,-3.57 -1.97,0 -3.57,1.6 -3.57,3.57 0,1.97 1.6,3.57 3.57,3.57 1.97,0 3.57,-1.6 3.57,-3.57z"/>
+    <path id="_1" class="fil2" d="M7.68 8.93c0,-1.97 -1.6,-3.57 -3.57,-3.57 -1.97,0 -3.57,1.6 -3.57,3.57 0,1.97 1.6,3.57 3.57,3.57 1.97,0 3.57,-1.6 3.57,-3.57z"/>
+   </g>
+   <g>
+    <line class="fil1 str2" x1="134.39" y1="8.93" x2="95.86" y2= "8.93" />
+   </g>
+   <g>
+    <path class="fil1 str4" d="M138.67 8.93c0,-1.97 -1.6,-3.57 -3.57,-3.57 -1.97,0 -3.57,1.6 -3.57,3.57 0,1.97 1.6,3.57 3.57,3.57 1.97,0 3.57,-1.6 3.57,-3.57z"/>
+    <path id="_1_0" class="fil2" d="M138.67 8.93c0,-1.97 -1.6,-3.57 -3.57,-3.57 -1.97,0 -3.57,1.6 -3.57,3.57 0,1.97 1.6,3.57 3.57,3.57 1.97,0 3.57,-1.6 3.57,-3.57z"/>
+   </g>
+  </g>
+ </g>
+</svg>
